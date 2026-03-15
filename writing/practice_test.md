@@ -1,10 +1,9 @@
 # CS101 Spring 2026 — Practice Midterm (Multiple Choice)
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Aidana
+Date: 14/03/2026
 
-**Instructions:** For each question, record your answer by replacing `TODO` with
-the letter of the single best response (a, b, c, or d). 
+**Instructions:** For each question, record your answer by replacing the todo with the letter of the single best response (a, b, c, or d). 
 
 ---
 
@@ -20,7 +19,7 @@ b) 2, 5, 8
 c) 2, 4, 6, 8, 10  
 d) 2, 9
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -31,7 +30,7 @@ b) `for i in range(8, 4):`
 c) `for i in range(8, 3, -1):`  
 d) `for i in range(4, 8, -1):`
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -48,7 +47,7 @@ b) 4
 c) 8  
 d) 16
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -65,7 +64,7 @@ b) 27
 c) Error  
 d) (6, 27)
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -76,7 +75,7 @@ b) Exhaustive enumeration
 c) Newton's method  
 d) Bisection method
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -93,7 +92,7 @@ b) 3
 c) 4  
 d) Error
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -104,7 +103,7 @@ b) {9, 11}
 c) {1, 3, 5, 7, 9, 11}  
 d) {5, 7}
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -134,7 +133,7 @@ for name, grade in grades.values():
     print(name, grade)
 ```
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -155,7 +154,7 @@ b) Comfortable
 c) Cold  
 d) Nothing is printed
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -166,7 +165,7 @@ b) **
 c) %  
 d) /
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -177,7 +176,7 @@ b) "42"
 c) True  
 d) 0xFF
 
-**Your answer:** TODO
+**Your answer:** d 
 
 ---
 
@@ -188,7 +187,7 @@ b) Area: 42
 c) Area: 16  
 d) Error
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -207,7 +206,7 @@ b) 18
 c) 30  
 d) 20
 
-**Your answer:** TODO
+**Your answer:** a
 
 ---
 
@@ -224,7 +223,7 @@ b) (10, 20)
 c) Error  
 d) (10, 20, 10, 20)
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -235,7 +234,7 @@ b) `[i * 2 for i in range(5)]`
 c) `[i ** 2 for i in range(5)]`  
 d) `[i + i for i in range(5)]`
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -246,7 +245,7 @@ b) mmit
 c) gram  
 d) rogram
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -257,7 +256,7 @@ b) hello world
 c) Hello World  
 d) Error
 
-**Your answer:** TODO
+**Your answer:** с
 
 ---
 
@@ -273,8 +272,19 @@ b) 4
 c) 21  
 d) 10
 
-**Your answer:** TODO
+**Your answer:** d
 
+```python
+#lambda practice 
+multiply3 = lambda x: x * 3 
+multiply3(4)
+
+even_odd = lambda x: x % 2 == 0
+
+length = lambda x: len(x)
+
+max3 = lambda a, b, c: max(a, b, c)
+```
 ---
 
 ### 19. After `items = [10, 20]; items += [30, 40, 50]`, what does `print(items)` produce?
@@ -284,7 +294,7 @@ b) [30, 40, 50]
 c) Error  
 d) [10, 20, 30, 40, 50]
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -301,7 +311,7 @@ b) Error
 c) {'r': 12}  
 d) {'p': 3, 'q': 4, 'r': 12}
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -312,7 +322,7 @@ b) 9
 c) 16  
 d) 81
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -323,7 +333,7 @@ b) `letters[1::2]`
 c) `letters[1:5:2]`  
 d) `letters[2::2]`
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -334,7 +344,7 @@ b) 4
 c) Error  
 d) 5
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
@@ -358,7 +368,7 @@ b) 300, 450
 c) False, True  
 d) Error
 
-**Your answer:** TODO
+**Your answer:** c
 
 ---
 
@@ -375,7 +385,7 @@ b) [1, 3, 5, 7, 9, 10]
 c) Error  
 d) [1, 3, 5, 7, 9]
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
