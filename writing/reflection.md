@@ -53,8 +53,7 @@ Dictionary vs. Set: A dictionary stores key-value pairs (like a word and its def
 
 ## 5. Functions
 
-**Question:** What is a default parameter in a Python function? Write a short
-example function that uses a default parameter, and explain what happens when
+**Question:** What is a default parameter in a Python function? Write a short example function that uses a default parameter, and explain what happens when
 the caller omits that argument.
 
 **Your Answer:**
