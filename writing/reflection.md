@@ -10,8 +10,7 @@ answering the questions below. Replace each `todo` with a thoughtful response (a
 
 ## 1. Self-Assessment
 
-**Question:** How did you feel about your performance on the practice test?
-Which topics felt most comfortable, and which ones felt most difficult?
+**Question:** How did you feel about your performance on the practice test? Which topics felt most comfortable, and which ones felt most difficult?
 
 **Your Answer:**
 
