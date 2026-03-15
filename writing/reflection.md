@@ -24,7 +24,7 @@ Explain the concept being tested and describe why the correct answer is right.
 
 **Your Answer:**
 
-I initially struggled with Question 24. This question tests the concept of Class Instances and how they interact with lists. The correct answer is c) False, True. This is because Python can store objects inside a list just like integers or strings. When you iterate through that list, the loop variable refers to the actual object, allowing you to access its specific attributes, such as .pages.
+I initially struggled with Question 24. This question tests the concept of Class Instances and how they interact with lists. The correct answer is `c) False, True`. This is because Python can store objects inside a list just like integers or strings. When you iterate through that list, the loop variable refers to the actual object, allowing you to access its specific attributes, such as .pages.
 ---
 
 ## 3. Loops and Iteration
